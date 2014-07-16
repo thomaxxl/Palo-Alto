@@ -37,3 +37,10 @@ show counter global | match drop
 show interface ethernetX/X
 show system state filter * | match over
 ```
+
+- VPN 
+
+```
+show vpn ike-sa gateway
+test vpn
+```
