@@ -23,6 +23,7 @@ less dp-log pan_packet_diag.log
 
 ```
 show jobs all
+show system resources follow
 show running resource-monitor
 show session info
 debug dataplane pool statistics
