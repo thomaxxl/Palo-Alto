@@ -73,3 +73,4 @@ test vpn
 
 links:
 http://blog.webernetz.net/2013/11/21/cli-commands-for-troubleshooting-palo-alto-firewalls/
+https://live.paloaltonetworks.com/servlet/JiveServlet/previewBody/4254-102-6-17063/qrg_v6.pdf
