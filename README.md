@@ -70,6 +70,10 @@ show vpn ike-sa gateway
 test vpn
 ```
 
+- USER id 
+```
+show user group name AD\user
+```
 
 links:
 http://blog.webernetz.net/2013/11/21/cli-commands-for-troubleshooting-palo-alto-firewalls/
