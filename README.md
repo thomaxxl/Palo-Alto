@@ -39,6 +39,23 @@ show interface ethernetX/X
 show system state filter * | match over
 ```
 
+Troubleshooting dropped packets
+********************************************************
+The following is very effective command in troubleshooting a suspect packet drop scenario. The reason for packets dropped can help narrow down on what the issue is.
+
+```show counter global filter severity drop```
+The above command can be used with the Delta option which allows viewing packets dropped since the last time the command was issued.
+```show counter global filter delta yes severity drop```
+Apart from the severity drop, there are various other severities that this command can be used for based on the scenario. A few examples are: error, informational and warning.
+
+Packet filter can be enabled using the following command:
+
+```debug dataplane packet-diag set filter match source x.x.x.x destination y.y.y.y
+debug dataplane packet-diag set filter on```
+and then run the command
+```show counter global filter packet-filter yes delta yes```
+
+
 - VPN 
 
 ```
