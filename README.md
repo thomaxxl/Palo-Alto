@@ -72,7 +72,10 @@ test vpn
 
 - USER id 
 ```
-show user group name AD\user
+show user group name Domain\user
+show user ip-user-mapping all
+clear user-cache ip 1.1.1.1
+
 ```
 
 links:
