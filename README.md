@@ -77,6 +77,11 @@ show user ip-user-mapping all
 clear user-cache ip 1.1.1.1
 
 ```
+- High Availability
+```
+request high-availability sync-to-remote running-config
+```
+
 
 links:
 http://blog.webernetz.net/2013/11/21/cli-commands-for-troubleshooting-palo-alto-firewalls/
