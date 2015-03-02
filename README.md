@@ -84,6 +84,8 @@ request high-availability sync-to-remote running-config
 https://www.paloaltonetworks.com/content/dam/paloaltonetworks-com/en_US/assets/pdf/framemaker/60/pan-os/pan-os/section_4.pdf
 
 
-- links:
+- Links
+
 http://blog.webernetz.net/2013/11/21/cli-commands-for-troubleshooting-palo-alto-firewalls/
 https://live.paloaltonetworks.com/servlet/JiveServlet/previewBody/4254-102-6-17063/qrg_v6.pdf
+https://live.paloaltonetworks.com/docs/DOC-3608
