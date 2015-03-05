@@ -83,6 +83,12 @@ request high-availability sync-to-remote running-config
 ```
 https://www.paloaltonetworks.com/content/dam/paloaltonetworks-com/en_US/assets/pdf/framemaker/60/pan-os/pan-os/section_4.pdf
 
+- Restart Management Plane
+
+```
+debug software restart device-server
+debug software restart management-server
+```
 
 - Links
 
