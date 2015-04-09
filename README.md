@@ -90,8 +90,18 @@ debug software restart device-server
 debug software restart management-server
 ```
 
+- SSL decrypt debugging:
+
+https://live.paloaltonetworks.com/docs/DOC-1386
+
+```
+show counter global | match proxy
+```
+
 - Links
 
 http://blog.webernetz.net/2013/11/21/cli-commands-for-troubleshooting-palo-alto-firewalls/
 https://live.paloaltonetworks.com/servlet/JiveServlet/previewBody/4254-102-6-17063/qrg_v6.pdf
 https://live.paloaltonetworks.com/docs/DOC-3608
+cli quick reference: https://live.paloaltonetworks.com/docs/DOC-4254
+http://blog.webernetz.net/2013/11/21/cli-commands-for-troubleshooting-palo-alto-firewalls/
