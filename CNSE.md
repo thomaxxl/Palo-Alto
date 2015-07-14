@@ -27,6 +27,8 @@ find command keyword fpga
     tcpdump snaplen 1500 filter "tcp port 514"
     view-pcap no-dns-lookup yes no-port-lookup yes verbose yes hex-ascii yes mgmt-pcap mgmt.pcap 
     ```
+- *Objects>Applications*:Customize application settings : timeout, risk
+- Reports
 ### More
 http://palo-alto-firewall.blogspot.be/2014/01/cnse.html
 https://live.paloaltonetworks.com/docs/DOC-6220
