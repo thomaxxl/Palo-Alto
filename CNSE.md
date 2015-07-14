@@ -14,4 +14,7 @@ set deviceconfig system ip-address 192.168.1.1 netmask y.y.y.y default-gateway z
 find command keyword fpga
 ```
 
-# 
+# More
+http://palo-alto-firewall.blogspot.be/2014/01/cnse.html
+https://live.paloaltonetworks.com/docs/DOC-6220
+[DNAT](https://live.paloaltonetworks.com/videos/1550)
