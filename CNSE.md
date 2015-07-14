@@ -27,7 +27,7 @@ find command keyword fpga
     tcpdump snaplen 1500 filter "tcp port 514"
     view-pcap no-dns-lookup yes no-port-lookup yes verbose yes hex-ascii yes mgmt-pcap mgmt.pcap 
     ```
-- _Objects>Applications_:Customize application settings : timeout, risk
+- __Objects>Applications__:Customize application settings : timeout, risk
 - Reports
 
 ### More
