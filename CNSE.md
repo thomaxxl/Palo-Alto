@@ -6,12 +6,12 @@
 - Flow Logic
 - Initial config 
 ```
-set deviceconfig system ip-address 192.168.1.1 netmask y.y.y.y default-gateway z.z.z.z dns-setting servers primary v.v.v.v
+    set deviceconfig system ip-address 192.168.1.1 netmask y.y.y.y default-gateway z.z.z.z dns-setting servers primary v.v.v.v
 ```
 - Application Command Center : dynamic reports w/ links to log info
 - CLI
 ```
-find command keyword fpga
+    find command keyword fpga
 ```
 ### Administration and Management
 - Passwords
