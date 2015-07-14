@@ -14,6 +14,17 @@ set deviceconfig system ip-address 192.168.1.1 netmask y.y.y.y default-gateway z
 find command keyword fpga
 ```
 ### Administration and Management
+- Passwords
+- Certificates : usage, generate, ocsp, csr, CA
+- Log forwarding 
+    - configured in sec policy or zone protection
+    - debugging
+    ```
+    debug log-receiver statistics
+    debug syslog-ng stats
+    debug syslog-ng [trace-on|trace-off]
+    less mp-log syslog-ng.log
+    ```
 ### More
 http://palo-alto-firewall.blogspot.be/2014/01/cnse.html
 https://live.paloaltonetworks.com/docs/DOC-6220
