@@ -25,6 +25,7 @@ find command keyword fpga
     debug syslog-ng [trace-on|trace-off]
     less mp-log syslog-ng.log
     tcpdump snaplen 1500 filter "tcp port 514"
+    view-pcap no-dns-lookup yes no-port-lookup yes verbose yes hex-ascii yes mgmt-pcap mgmt.pcap 
     ```
 ### More
 http://palo-alto-firewall.blogspot.be/2014/01/cnse.html
