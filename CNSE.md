@@ -31,6 +31,10 @@ find command keyword fpga
 - Reports
 
 ### Interface Configuration
+- vlans & interfaces
+- QoS Policy & Profile, monitoring
+- 
+### Layer 3 Configuration
 
 ### More
 http://palo-alto-firewall.blogspot.be/2014/01/cnse.html
