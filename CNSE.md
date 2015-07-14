@@ -1,4 +1,4 @@
-# Platforms and Architecture
+### Platforms and Architecture
 - Platforms
 - [Single-Pass Parallel Processing Architecture](http://www.paloguard.com/SP3-Architecture.asp)
     App,User,Content-ID
@@ -13,7 +13,7 @@ set deviceconfig system ip-address 192.168.1.1 netmask y.y.y.y default-gateway z
 ```
 find command keyword fpga
 ```
-
+### Administration and Management
 # More
 http://palo-alto-firewall.blogspot.be/2014/01/cnse.html
 https://live.paloaltonetworks.com/docs/DOC-6220
