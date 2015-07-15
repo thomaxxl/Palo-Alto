@@ -40,6 +40,9 @@ find command keyword fpga
 http://palo-alto-firewall.blogspot.be/2014/01/cnse.html
 https://live.paloaltonetworks.com/docs/DOC-6220
 
-####
+
 [Nat](https://live.paloaltonetworks.com/servlet/JiveServlet/previewBody/1517-102-7-11647/Understanding_NAT-4.1-RevC.pdf)
 [DNAT](https://live.paloaltonetworks.com/videos/1550)
+
+
+https://www.paloaltonetworks.com/content/dam/paloaltonetworks-com/en_US/assets/pdf/datasheets/education/Palo%20Alto%20Networks%20PCNSE6%20Study%20Guide%20Feb%202015.pdf
