@@ -34,7 +34,13 @@ find command keyword fpga
 - vlans & interfaces
 - QoS Policy & Profile, monitoring
 - 
+
 ### Layer 3 Configuration
+
+- U-turn NAT https://live.paloaltonetworks.com/docs/DOC-1678
+- DNS Proxy (advanced? cli?)
+- Overlapping subnets
+- PBF
 
 ### More
 http://palo-alto-firewall.blogspot.be/2014/01/cnse.html
