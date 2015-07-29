@@ -67,3 +67,4 @@ random
 block lists in policies
 
 session overview: https://live.paloaltonetworks.com/docs/DOC-4785
+Application Incomplete, Insufficient Data, Not-Applicable:  https://live.paloaltonetworks.com/docs/DOC-1549
