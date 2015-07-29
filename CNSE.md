@@ -69,3 +69,4 @@ shared-vsys
 
 session overview: https://live.paloaltonetworks.com/docs/DOC-4785
 Application Incomplete, Insufficient Data, Not-Applicable:  https://live.paloaltonetworks.com/docs/DOC-1549
+video: how to configure url filtering https://live.paloaltonetworks.com/docs/DOC-9549
