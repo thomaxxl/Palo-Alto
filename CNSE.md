@@ -64,3 +64,5 @@ focus:
 
 random
 block lists in policies
+
+session overview: https://live.paloaltonetworks.com/docs/DOC-4785
