@@ -52,3 +52,11 @@ https://live.paloaltonetworks.com/docs/DOC-6220
 
 
 https://www.paloaltonetworks.com/content/dam/paloaltonetworks-com/en_US/assets/pdf/datasheets/education/Palo%20Alto%20Networks%20PCNSE6%20Study%20Guide%20Feb%202015.pdf
+
+
+focus:
+- wildfire flow
+- nat objects vs sec objects
+- vpn cli output
+- bgp
+- AA HA
