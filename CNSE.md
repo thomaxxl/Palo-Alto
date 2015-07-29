@@ -65,6 +65,7 @@ focus:
 
 random
 block lists in policies
+shared-vsys
 
 session overview: https://live.paloaltonetworks.com/docs/DOC-4785
 Application Incomplete, Insufficient Data, Not-Applicable:  https://live.paloaltonetworks.com/docs/DOC-1549
