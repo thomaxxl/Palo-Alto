@@ -66,6 +66,18 @@ focus:
 random
 block lists in policies
 shared-vsys
+tap interface
+session monitor
+url content filtering
+content locks
+
+user id enabled per zone
+
+safe search
+
+vwire ip address
+
+decryption port mirroring
 
 session overview: https://live.paloaltonetworks.com/docs/DOC-4785
 Application Incomplete, Insufficient Data, Not-Applicable:  https://live.paloaltonetworks.com/docs/DOC-1549
