@@ -60,6 +60,7 @@ focus:
 - vpn cli output
 - bgp
 - AA HA
+- certificates
 
 
 random
