@@ -80,6 +80,17 @@ vwire ip address
 dns sinkholing : https://live.paloaltonetworks.com/docs/DOC-6220
 
 decryption port mirroring
+application filter
+
+the order of evaluation within a url filtering profile is
+
+passive dns monitoring
+
+Anti-virus updates are released daily. Application and Threat updates are released weekly
+
+threat sigs..
+
+zone protection
 
 session overview: https://live.paloaltonetworks.com/docs/DOC-4785
 Application Incomplete, Insufficient Data, Not-Applicable:  https://live.paloaltonetworks.com/docs/DOC-1549
