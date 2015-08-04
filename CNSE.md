@@ -70,6 +70,7 @@ tap interface
 session monitor
 url content filtering
 content locks
+data filtering
 
 user id enabled per zone
 
