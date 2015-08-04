@@ -93,6 +93,7 @@ threat sigs..
 zone protection
 inter-vsys routing
 application override
+master key
 
 session overview: https://live.paloaltonetworks.com/docs/DOC-4785
 
@@ -108,6 +109,7 @@ https://live.paloaltonetworks.com/servlet/JiveServlet/previewBody/1628-102-4-378
 ## WildFire
 - decision flow
 - file types: apk, pe, pdf, ms office, pdf, java
+- subscription ...
 
 ## Panorama
 - Access domains: limit administrative access to specified device groups ( for custom admin roles / radius VSAs )
