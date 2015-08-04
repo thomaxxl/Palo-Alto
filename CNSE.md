@@ -77,6 +77,7 @@ user id enabled per zone
 safe search
 
 vwire ip address
+dns sinkholing : https://live.paloaltonetworks.com/docs/DOC-6220
 
 decryption port mirroring
 
