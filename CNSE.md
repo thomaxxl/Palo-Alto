@@ -108,7 +108,8 @@ https://live.paloaltonetworks.com/servlet/JiveServlet/previewBody/1628-102-4-378
 ## Panorama
 - Access domains: limit administrative access to specified device groups ( for custom admin roles / radius VSAs )
 
-### Device Groups - Panorama pushed policies are not synchronized between firewall HA peers.
+### Device Groups 
+- Panorama pushed policies are not synchronized between firewall HA peers.
 
 ### Templates
 - Cannot enable operational modes such as multi-vsys mode, FIPS mode, or CC mode using templates; these operational settings must be configured locally on each device.
