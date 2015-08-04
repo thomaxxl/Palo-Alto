@@ -107,7 +107,7 @@ https://live.paloaltonetworks.com/servlet/JiveServlet/previewBody/1628-102-4-378
 
 
 ## WildFire
-- decision flow
+- [decision flow](https://www.paloaltonetworks.com/documentation/60/wildfire/wf_admin/wildfire-overview/about-wildfire.html)
 - file types: apk, pe, pdf, ms office, pdf, java
 - subscription ...
 
