@@ -105,6 +105,10 @@ https://www.paloaltonetworks.com/content/dam/paloaltonetworks-com/en_US/assets/p
 https://live.paloaltonetworks.com/servlet/JiveServlet/previewBody/1628-102-4-37824/DOC-1628.pdf
 
 
+## WildFire
+- decision flow
+- file types: apk, pe, pdf, ms office, pdf, java
+
 ## Panorama
 - Access domains: limit administrative access to specified device groups ( for custom admin roles / radius VSAs )
 
