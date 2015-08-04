@@ -92,9 +92,12 @@ threat sigs..
 
 zone protection
 inter-vsys routing
+application override
 
 session overview: https://live.paloaltonetworks.com/docs/DOC-4785
+
 Application Incomplete, Insufficient Data, Not-Applicable:  https://live.paloaltonetworks.com/docs/DOC-1549
+
 video: how to configure url filtering https://live.paloaltonetworks.com/docs/DOC-9549
 
 https://www.paloaltonetworks.com/content/dam/paloaltonetworks-com/en_US/assets/pdf/datasheets/education/CNSE%205.1%20Study%20Guide%20v2.2.pdf
