@@ -54,7 +54,7 @@ https://live.paloaltonetworks.com/docs/DOC-6220
 https://www.paloaltonetworks.com/content/dam/paloaltonetworks-com/en_US/assets/pdf/datasheets/education/Palo%20Alto%20Networks%20PCNSE6%20Study%20Guide%20Feb%202015.pdf
 
 
-focus:
+## focus:
 - wildfire flow
 - nat objects vs sec objects
 - vpn cli output
@@ -63,7 +63,7 @@ focus:
 - certificates
 
 
-random
+## random
 block lists in policies
 shared-vsys
 tap interface
@@ -103,3 +103,8 @@ video: how to configure url filtering https://live.paloaltonetworks.com/docs/DOC
 https://www.paloaltonetworks.com/content/dam/paloaltonetworks-com/en_US/assets/pdf/datasheets/education/CNSE%205.1%20Study%20Guide%20v2.2.pdf
 
 https://live.paloaltonetworks.com/servlet/JiveServlet/previewBody/1628-102-4-37824/DOC-1628.pdf
+
+
+## Panorama
+- Access domains: limit administrative access to specified device groups ( for custom admin roles / radius VSAs )
+- 
