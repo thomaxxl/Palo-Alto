@@ -42,6 +42,9 @@ find command keyword fpga
 - Overlapping subnets
 - PBF
 
+### VPN
+[troubleshooting](https://live.paloaltonetworks.com/docs/DOC-3671)
+
 ### More
 http://palo-alto-firewall.blogspot.be/2014/01/cnse.html
 https://live.paloaltonetworks.com/docs/DOC-6220
