@@ -5,6 +5,7 @@ Palo Alto commands
 
 - Debug Flow Basic
 ```
+debug dataplane packet-diag clear all
 debug dataplane packet-diag clear log log
 debug dataplane packet-diag set filter on
 debug dataplane packet-diag set filter match [ source destination ... ]
