@@ -20,6 +20,11 @@ debug dataplane packet-diag aggregate-logs
 less dp-log pan_packet_diag.log  
 ```
 
+- Route lookup
+```
+test routing fib-lookup virtual-router default ip <ip address>
+```
+
 - System info
 
 ```
