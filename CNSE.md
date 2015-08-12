@@ -85,7 +85,8 @@ dns sinkholing : https://live.paloaltonetworks.com/docs/DOC-6220
 decryption port mirroring
 application filter
 
-the order of evaluation within a url filtering profile is
+
+[URL Filtering Order](https://live.paloaltonetworks.com/docs/DOC-2731)
 
 passive dns monitoring
 
