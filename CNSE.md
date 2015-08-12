@@ -79,8 +79,10 @@ user id enabled per zone
 
 safe search
 
-vwire ip address
-dns sinkholing : https://live.paloaltonetworks.com/docs/DOC-6220
+vwire ip address 
+an interface in vwire mode has no mac address
+
+[dns sinkholing](https://live.paloaltonetworks.com/docs/DOC-6220)
 
 decryption port mirroring
 application filter
