@@ -88,7 +88,7 @@ decryption port mirroring
 application filter
 
 
-[URL Filtering Order](https://live.paloaltonetworks.com/docs/DOC-2731)
+[URL Filtering Order](https://live.paloaltonetworks.com/docs/DOC-2731) : block/allow/custom/cached/pre-defined
 
 passive dns monitoring
 
