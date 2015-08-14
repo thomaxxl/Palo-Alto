@@ -44,6 +44,11 @@ find command keyword fpga
 
 ### VPN
 [troubleshooting](https://live.paloaltonetworks.com/docs/DOC-3671)
+```
+show vpn tunnel
+show vpn gateway
+show vpn ike-sa
+```
 
 ### High Availability
 ```
