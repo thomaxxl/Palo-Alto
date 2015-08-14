@@ -45,6 +45,13 @@ find command keyword fpga
 ### VPN
 [troubleshooting](https://live.paloaltonetworks.com/docs/DOC-3671)
 
+### High Availability
+```
+admin@PA> show high-availability all
+admin@PA> show high-availability state
+admin@PA> show high-availability link-monitoring
+admin@PA> show high-availability path-monitoring
+```
 ### More
 http://palo-alto-firewall.blogspot.be/2014/01/cnse.html
 https://live.paloaltonetworks.com/docs/DOC-6220
