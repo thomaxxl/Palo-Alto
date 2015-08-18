@@ -97,7 +97,8 @@ an interface in vwire mode has no mac address
 [dns sinkholing](https://live.paloaltonetworks.com/docs/DOC-6220)
 
 decryption port mirroring
-application filter
+
+[application filter](https://live.paloaltonetworks.com/docs/DOC-5477)
 
 
 [URL Filtering Order](https://live.paloaltonetworks.com/docs/DOC-2731) : block/allow/custom/cached/pre-defined
@@ -109,11 +110,14 @@ Anti-virus updates are released daily. Application and Threat updates are releas
 threat sigs..
 
 zone protection
+
 inter-vsys routing
+
 application override
+
 master key
 
-session overview: https://live.paloaltonetworks.com/docs/DOC-4785
+[session overview](https://live.paloaltonetworks.com/docs/DOC-4785)
 
 [Application Incomplete, Insufficient Data, Not-Applicable: ](https://live.paloaltonetworks.com/docs/DOC-1549)
 
