@@ -68,6 +68,25 @@ https://live.paloaltonetworks.com/docs/DOC-6220
 
 https://www.paloaltonetworks.com/content/dam/paloaltonetworks-com/en_US/assets/pdf/datasheets/education/Palo%20Alto%20Networks%20PCNSE6%20Study%20Guide%20Feb%202015.pdf
 
+## SSL decryption
+troubleshooting:
+
+Verify the outbound proxy 
+```
+>show system setting ssl-decrypt setting
+```
+Check counters for warnings
+```
+>show counter global filter category proxy
+```
+Check memory pools
+```
+>debug dataplane pool statistics
+```
+Check the exclude cache for the destination IP or Cert
+```
+>show system setting ssl-decrypt exclude-cache
+```
 
 ## focus:
 - wildfire flow
