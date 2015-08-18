@@ -87,6 +87,13 @@ Check the exclude cache for the destination IP or Cert
 ```
 >show system setting ssl-decrypt exclude-cache
 ```
+```
+debug dataplane packet-diag:
+
+  log feature ssl basic
+  log feature proxy basic
+```
+
 
 ## focus:
 - wildfire flow
