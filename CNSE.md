@@ -120,7 +120,7 @@ session overview: https://live.paloaltonetworks.com/docs/DOC-4785
 [Improving Performance of HTTP with DSRI](https://live.paloaltonetworks.com/docs/DOC-5996)
 
 [video: how to configure url filtering](https://live.paloaltonetworks.com/docs/DOC-9549)
-
+[video: How to Configure IPS aka Vulnerability Protection Profile](https://live.paloaltonetworks.com/videos/1133)
 https://www.paloaltonetworks.com/content/dam/paloaltonetworks-com/en_US/assets/pdf/datasheets/education/CNSE%205.1%20Study%20Guide%20v2.2.pdf
 
 https://live.paloaltonetworks.com/servlet/JiveServlet/previewBody/1628-102-4-37824/DOC-1628.pdf
