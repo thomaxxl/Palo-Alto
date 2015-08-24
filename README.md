@@ -74,6 +74,7 @@ show counter global filter packet-filter yes delta yes
 ```
 show vpn ike-sa gateway
 test vpn
+tail follow yes ikemgr.log
 ```
 
 - USER id 
