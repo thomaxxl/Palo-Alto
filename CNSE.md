@@ -1,5 +1,5 @@
 ### Platforms and Architecture
-- Platforms
+- Platforms: sizing (GB/TB), processor types 
 - [Single-Pass Parallel Processing Architecture](http://www.paloguard.com/SP3-Architecture.asp)
     App,User,Content-ID
 - Control- & Data Plane
