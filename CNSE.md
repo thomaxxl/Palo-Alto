@@ -120,6 +120,8 @@ safe search
 vwire ip address 
 an interface in vwire mode has no mac address
 
+gp portal : [mixed internal external network](https://www.paloaltonetworks.com/documentation/60/globalprotect/global_protect_6-0/globalprotect-quick-configs/mixed-internal-and-external-gateway-configuration.html)
+
 [dns sinkholing](https://live.paloaltonetworks.com/docs/DOC-6220)
 
 decryption port mirroring
