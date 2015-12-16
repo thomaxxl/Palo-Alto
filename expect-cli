@@ -1,0 +1,48 @@
+#!/usr/bin/expect -f
+#
+# This script logs in to the PA and executes the given commands
+#
+# The script should be run as
+# paloaltoexpect host user pass "command1" "command2" "command3" ...
+#
+
+set server  [lindex $argv 0]
+set user    [lindex $argv 1]
+set pass    [lindex $argv 2]
+set cmd     [lindex $argv 3]
+
+proc abort {} {
+    send_user "An error occured"
+    exit 1
+}
+
+proc show_cmd {cmd} {
+    expect {
+        -timeout 10 -re ".*> " { send $cmd; send "\n" }
+        default { abort }
+    }
+}
+
+set timeout 30
+send_user "connecting to $server\n"
+spawn ssh -l $user $server
+
+expect {
+    "assword: " {
+        send "$pass\r"
+    }
+    default {
+        send_user "Login failed\n"
+        exit
+    }
+}
+
+show_cmd "set cli pager off"
+foreach cmd [lrange $argv 3 end] {
+    show_cmd $cmd
+}
+
+send "exit\n"
+expect { send "exit\n" }
+
+exit
