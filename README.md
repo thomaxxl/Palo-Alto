@@ -3,6 +3,20 @@ Palo-Alto
 
 Palo Alto commands
 
+- Session Info
+```
+show session all filter destination 8.8.8.8
+show session id XXXX
+```
+
+- Errors, drops
+```
+show counter global filter packet-filter yes
+show counter global | match drop
+show interface ethernetX/X
+show system state filter * | match over
+```
+
 - Debug Flow Basic
 ```
 debug dataplane packet-diag clear all
@@ -36,15 +50,6 @@ debug dataplane pool statistics
 show counter global filter aspect resource
 show system statistics
 ```
-
-- Errors, drops
-
-```
-show counter global | match drop
-show interface ethernetX/X
-show system state filter * | match over
-```
-
 
 The following is very effective command in troubleshooting a suspect packet drop scenario. The reason for packets dropped can help narrow down on what the issue is.
 
